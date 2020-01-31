@@ -53,3 +53,6 @@ Contour plots (sometimes called Level Plots) are a way to show a three-dimensi
 ## Gradient Descent
 An optimization algorithm used to minimize some functions by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model.
 
+## Resouces
+* [Coursera course by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
+* [Machine Learning cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
