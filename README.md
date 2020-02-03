@@ -53,6 +53,17 @@ Contour plots (sometimes called Level Plots) are a way to show a three-dimensi
 ## Gradient Descent
 An optimization algorithm used to minimize some functions by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model.
 
+## Multivariate Linear Regression
+That is the linear regression issues with multiple inputs (or features).
+Notation:
+n: number of features
+x(i): input (features) of i(th) training example
+xj(i): value of feature j in i(th) training example
+### Hypothesis
+![Hypothesis](https://humanunsupervised.github.io/humanunsupervised.com/topics/images/lesson2/02.png)
+### Gradient Descent
+**Mean normalization**
+
 ## Resouces
 * [Coursera course by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
 * [Machine Learning cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
