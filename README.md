@@ -64,6 +64,10 @@ xj(i): value of feature j in i(th) training example
 ### Gradient Descent
 **Mean normalization**
 
+### Polynomial Regression
+Our hypothesis function need not be linear (a straight line) if that does not fit the data well.
+We can change the behavior or curve of our hypothesis function by making it a quadratic, cubic or square root function (or any other form).
+
 ## Resouces
 * [Coursera course by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
 * [Machine Learning cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
