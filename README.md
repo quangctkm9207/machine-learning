@@ -71,11 +71,22 @@ We can change the behavior or curve of our hypothesis function by making it a qu
 A method to calculate continous outcomes in the regression problem.
 ##### a. Gradient descent
 ![Cos function](https://i.pinimg.com/originals/43/7d/47/437d47ca32f469ded991b6d0194bb8e2.jpg)
+* Hypothesis (h-theta(x))
+* Cost function (J(theta))
+* Minimize the cost function to find theta
+
 ##### b. Normalized equation
+![Normal equation](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png)
 
 ### 2. Logistic Regression
 A method to classify data into discrete outcomes in the classification problem.
 ##### a. Gradient descent
+* Hypothesis function(h-theta(x))  
+![Hypothesis function](https://i.ytimg.com/vi/q6aZeJFlGcc/maxresdefault.jpg)
+* Cost function (J(theta))
+![Cost function](https://i.pinimg.com/originals/95/74/5c/95745c6d44c662e8d7fd3641593d8833.png)
+* Minimize the cost function to find theta
+![Gradient Descent](https://i.stack.imgur.com/pYVzl.png)
 ##### b. Advanced optimization
 ##### c. Others
 * Conjugate gradient
