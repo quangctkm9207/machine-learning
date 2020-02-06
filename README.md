@@ -47,7 +47,7 @@ Sympol: J(θ0, θ1)
 
 * **Contour plots**  
 Contour plots (sometimes called Level Plots) are a way to show a three-dimensional surface on a two-dimensional plane. It is used to visualize the cost function.
-![Contour plot](http://www.adeveloperdiary.com/wp-content/uploads/2018/11/How-to-visualize-Gradient-Descent-using-Contour-plot-in-Python-adeveloperdiary.com-1.jpg)
+<img src="http://www.adeveloperdiary.com/wp-content/uploads/2018/11/How-to-visualize-Gradient-Descent-using-Contour-plot-in-Python-adeveloperdiary.com-1.jpg" height="300"/>  
 
 * **Gradient Descent**  
 An optimization algorithm used to minimize some functions by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model.
@@ -58,8 +58,8 @@ Notation:
 n: number of features
 x(i): input (features) of i(th) training example
 xj(i): value of feature j in i(th) training example
+<img src="https://humanunsupervised.github.io/humanunsupervised.com/topics/images/lesson2/02.png" height="200"/>
 
-![Hypothesis](https://humanunsupervised.github.io/humanunsupervised.com/topics/images/lesson2/02.png)
 * **Mean normalization**  
 
 * **Polynomial Regression**  
@@ -70,23 +70,27 @@ We can change the behavior or curve of our hypothesis function by making it a qu
 ### 1. Linear Regression
 A method to calculate continous outcomes in the regression problem.
 ##### a. Gradient descent
-![Cos function](https://i.pinimg.com/originals/43/7d/47/437d47ca32f469ded991b6d0194bb8e2.jpg)
+<img src="https://i.pinimg.com/originals/43/7d/47/437d47ca32f469ded991b6d0194bb8e2.jpg" height="200"/>  
+
 * Hypothesis (h-theta(x))
 * Cost function (J(theta))
 * Minimize the cost function to find theta
 
 ##### b. Normalized equation
-![Normal equation](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png" height="200"/>
 
 ### 2. Logistic Regression
 A method to classify data into discrete outcomes in the classification problem.
 ##### a. Gradient descent
 * Hypothesis function(h-theta(x))  
-![Hypothesis function](https://i.ytimg.com/vi/q6aZeJFlGcc/maxresdefault.jpg)
-* Cost function (J(theta))
-![Cost function](https://i.pinimg.com/originals/95/74/5c/95745c6d44c662e8d7fd3641593d8833.png)
-* Minimize the cost function to find theta
-![Gradient Descent](https://i.stack.imgur.com/pYVzl.png)
+<img src="https://i.ytimg.com/vi/q6aZeJFlGcc/maxresdefault.jpg" height="200"/>
+
+* Cost function (J(theta))  
+<img src="https://i.pinimg.com/originals/95/74/5c/95745c6d44c662e8d7fd3641593d8833.png" height="200"/>
+
+* Minimize the cost function to find theta  
+<img src="https://i.stack.imgur.com/pYVzl.png" height="200"/>
+
 ##### b. Advanced optimization
 ##### c. Others
 * Conjugate gradient
