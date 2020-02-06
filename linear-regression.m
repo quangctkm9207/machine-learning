@@ -1,4 +1,4 @@
-% Basic machine learning functions represented in Octave
+% Linear Regression implemented in Octave
 
 % NOTATION
 % m : the number of training samples
