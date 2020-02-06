@@ -93,6 +93,13 @@ A method to classify data into discrete outcomes in the classification problem.
 * BFGS
 * L-BFGS
 
+## Tools
+* High-level programming languages (for numerical computations)  
+  * [MATLAB](https://www.mathworks.com/products/matlab.html)
+  * [Octave](https://www.gnu.org/software/octave/)
+
+
 ## Resouces
 * [Coursera course by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
 * [Machine Learning cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+* [Math is fun](https://www.mathsisfun.com/)
